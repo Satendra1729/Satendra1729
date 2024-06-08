@@ -12,7 +12,7 @@
 :rocket: Authentication and Access Managment \
 :rocket: AWS IaaC Teraform, Cloudformation CDK
 
-## Skills 
+## :crown: Skills 
 ### :telescope: Design 
 :round_pushpin: POC \
 :round_pushpin: Trait and Interface finding \
@@ -33,7 +33,7 @@
 :battery: Benchmarking
 :battery: DI
 :battery: Serilog
-:battery: Indempotent Microservices
+:battery: Microservices
 :battery: Unleash feature flags
 
 #### :round_pushpin: Python
@@ -48,46 +48,40 @@
 :battery: Indempotent Microservices
 :battery: Unlease feature flag
 
-3. React TypeScript
-    Material UI
-    Fluent UI
-    Unlease feature flag
-    Authentication
+#### :round_pushpin: React TypeScript
+:battery: Material UI
+:battery: Fluent UI
+:battery: Unlease feature flag
+:battery: Authentication
 
-4. Public Key Infrastructure
-5. Security and Access Managment
-6. MSSQL
+:round_pushpin:  Public Key Infrastructure \
+:round_pushpin:  Security and Access Managment \
+:round_pushpin:  MSSQL 
 
-### Build
-1. Github Workflow
-2. Github Actions
-3. Dockerization
-4. Secret Managment
-5. Alerts
-6. Static feature flag
+### :telescope: Build
+:round_pushpin:  Github Workflow \
+:round_pushpin:  Github Actions \
+:round_pushpin:  Dockerization \
+:round_pushpin:  Secret Managment \
+:round_pushpin:  Alerts \
+:round_pushpin:  Static feature flag
 
-### Testing
-1. Unit Testing
-    MS Test dotnet
-    unitest python
-2. Integration Testing
-    Selenium Test Framework
+### :telescope: Testing
+#### :round_pushpin: Unit Testing
+:battery: MS Test dotnet
+:battery: unitest python
+#### :round_pushpin:  Integration Testing
+:battery: Selenium Test Framework
 
-### Documentation
-1. Markdown
+### :telescope: Packaging
+:battery: Nuget packaging
+:battery: PyPI packaging
+:battery: Docker Image
 
-### Packaging
-1. Nuget packaging
-    Library
-    Tool
-2. PyPI packaging
-    CLI
-    Module
+### :telescope: Deployment
+:battery: AWS CDK 
+:battery: Cloudformation
+:battery: Terraform
 
-### Deployment
-1. AWS CDK 
-2. Cloudformation
-3. Terraform
-
-### Monitoring
-1. Grafan-loki-promtail
+### :telescope: Monitoring
+:battery: Grafan-loki-promtail
