@@ -1,5 +1,5 @@
 # :eyes: I design-develop-build-test-doc-package-deploy-monitor web,cli,library etc software applications
--------------------------------------------------------------------------
+------------
 
 ## :space_invader: Services 
  
@@ -12,41 +12,41 @@
 :rocket: Authentication and Access Managment \
 :rocket: AWS IaaC Teraform, Cloudformation CDK
 
-## :telescope: Design 
-:memo: Abstract POC \
-:memo: Interface defination \
-:memo: Development Governance Rules \
-:memo: Performance Testing \
-:memo: Dependency Managment \
-:memo: Quality Scans \
-:memo: Presentation \
-:memo: Flow Digrams
+## Skills 
+### :telescope: Design 
+:round_pushpin: POC \
+:round_pushpin: Trait and Interface finding \
+:round_pushpin: Development Governance Rules \
+:round_pushpin: Module Breaking \
+:round_pushpin: Fitness Boundary Setup \
+:round_pushpin: Dependency Managment \
+:round_pushpin: Quality Scans \
+:round_pushpin: Documentation 
 
-## :telescope: Development
-1. dotnet C#
-    WebAPI
-    AWS Lambda
-    Multithreading
-    Asyncronous
-    CLI (Spectre.Console.Cli)
-    YARP Proxy
-    Benchmarking
-    DI
-    Serilog
-    Indempotent Microservices
-    Unleash feature flags
+### :telescope: Development
+#### :round_pushpin: dotnet C# 
+:battery: WebAPI :battery: AWS Lambda 
+:battery: Multithreading 
+:battery: Asyncronous 
+:battery: CLI (Spectre.Console.Cli)
+:battery: YARP Proxy
+:battery: Benchmarking
+:battery: DI
+:battery: Serilog
+:battery: Indempotent Microservices
+:battery: Unleash feature flags
 
-2. Python
-    Automation Scripting
-    Datamining
-    AWS Lambda
-    CLI (click)
-    Multiprocessing
-    timeit
-    DI
-    logging
-    Indempotent Microservices
-    Unlease feature flag
+#### :round_pushpin: Python
+:battery: Automation Scripting
+:battery: Datamining
+:battery: AWS Lambda
+:battery: CLI (click)
+:battery: Multiprocessing
+:battery: timeit
+:battery: DI
+:battery: logging
+:battery: Indempotent Microservices
+:battery: Unlease feature flag
 
 3. React TypeScript
     Material UI
@@ -58,7 +58,7 @@
 5. Security and Access Managment
 6. MSSQL
 
-## Build
+### Build
 1. Github Workflow
 2. Github Actions
 3. Dockerization
@@ -66,17 +66,17 @@
 5. Alerts
 6. Static feature flag
 
-## Testing
+### Testing
 1. Unit Testing
     MS Test dotnet
     unitest python
 2. Integration Testing
     Selenium Test Framework
 
-## Documentation
+### Documentation
 1. Markdown
 
-## Packaging
+### Packaging
 1. Nuget packaging
     Library
     Tool
@@ -84,10 +84,10 @@
     CLI
     Module
 
-## Deployment
+### Deployment
 1. AWS CDK 
 2. Cloudformation
 3. Terraform
 
-## Monitoring
+### Monitoring
 1. Grafan-loki-promtail
