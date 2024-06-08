@@ -1,16 +1,28 @@
-### I design-develop-build-test-doc-package-deploy-monitor web,cli,library etc software applications
+# :eyes: I design-develop-build-test-doc-package-deploy-monitor web,cli,library etc software applications
+-------------------------------------------------------------------------
 
-## Design 
-1. Abstract POC
-2. Interface defination
-3. Development Governance Rules
-4. Performance Testing
-5. Dependency Managment
-6. Quality Scans
-7. Presentation 
-8. Flow Digrams
+## :space_invader: Services 
+ 
+:rocket: REST API \
+:rocket: Docker Apps \
+:rocket: Data Cleaning \
+:rocket:  CLI development \
+:rocket: Website Scraping Scripting \
+:rocket: Lambda function development \
+:rocket: Authentication and Access Managment \
+:rocket: AWS IaaC Teraform, Cloudformation CDK
 
-## Development
+## :telescope: Design 
+:memo: Abstract POC \
+:memo: Interface defination \
+:memo: Development Governance Rules \
+:memo: Performance Testing \
+:memo: Dependency Managment \
+:memo: Quality Scans \
+:memo: Presentation \
+:memo: Flow Digrams
+
+## :telescope: Development
 1. dotnet C#
     WebAPI
     AWS Lambda
