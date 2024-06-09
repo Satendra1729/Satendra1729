@@ -4,9 +4,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Satendra, A Polyglot developer from <b>Bangalore, India</b>. I have 9+ years expireance and I have mostly worked on dotnet C#, Python, C++, TS and AWS. 
+<p>Welcome to my page! </br> I'm Satendra, A Polyglot developer from <b>Bangalore, India</b>. I have 9+ years expireance and I have mostly worked on dotnet C#, Python and AWS. 
 
-#### :eyes: I design-develop-build-test-doc-package-deploy-monitor web,cli,library etc software applications
+#### :eyes: I design-develop-build-test-doc-package-deploy-monitor web,cli,library etc software applications.
 
   
 ------------
@@ -15,32 +15,43 @@
 ### [AWS Certified DevOps Engineer – Professional](https://www.credly.com/badges/ea4fb840-e0c6-43a9-9565-f80ee2eefe42/public_url)
 
 ## :space_invader: Services 
- 
-:rocket: REST API \
-:rocket: Docker Apps \
-:rocket: Data Cleaning \
+
+:rocket: Python programing \
+:rocket: C# programing \
+:rocket: REST API Development \
 :rocket: CLI development \
+:rocket: Microservice Docker Apps \
+:rocket: CICD github workflow \
+:rocket: Automation scripting bash and python
+
 :rocket: Website Scraping Scripting \
-:rocket: Lambda function development \
-:rocket: Authentication and Access Managment \
-:rocket: AWS IaaC Teraform, Cloudformation CDK
+:rocket: Data Cleaning Scripting
+
+:rocket: AWS IaaC Teraform, Cloudformation CDK \
+:rocket: Authentication and Access Managment implementation (LDAP) \
+:rocket: Serverless Development 
+
+:rocket: Reactjs with Typescript
 
 ## :crown: Skills 
-### :telescope: Design 
+### :telescope: Design and SDLC Setup
 :round_pushpin: POC \
+:round_pushpin: Requirement Gathering \
 :round_pushpin: Trait and Interface finding \
 :round_pushpin: Development Governance Rules \
 :round_pushpin: Module Breaking \
 :round_pushpin: Fitness Boundary Setup \
 :round_pushpin: Dependency Managment \
 :round_pushpin: Quality Scans \
-:round_pushpin: Documentation 
+:round_pushpin: Documentation \
+:round_pushpin: CICD
+
 
 ### :telescope: Development
 #### :round_pushpin: dotnet C# 
 :battery: WebAPI :battery: AWS Lambda 
-:battery: Multithreading 
-:battery: Asyncronous 
+:battery: Multithreading
+:battery: Asyncronous
 :battery: CLI (Spectre.Console.Cli)
 :battery: YARP Proxy
 :battery: Benchmarking
@@ -48,6 +59,8 @@
 :battery: Serilog
 :battery: Microservices
 :battery: Unleash feature flags
+:battery: Nuget Packaging
+:battery: Docker Packaging
 
 #### :round_pushpin: Python
 :battery: Automation Scripting
@@ -55,9 +68,10 @@
 :battery: AWS Lambda
 :battery: CLI (click)
 :battery: Multiprocessing
-:battery: timeit
+:battery: Benchmarking
+:battery: Unit Testing
 :battery: DI
-:battery: logging
+:battery: Logging
 :battery: Indempotent Microservices
 :battery: Unlease feature flag
 
@@ -80,9 +94,11 @@
 :round_pushpin:  Static feature flag
 
 ### :telescope: Testing
+
 #### :round_pushpin: Unit Testing
 :battery: MS Test dotnet
-:battery: unitest python
+:battery: unittest python
+
 #### :round_pushpin:  Integration Testing
 :battery: Selenium Test Framework
 
