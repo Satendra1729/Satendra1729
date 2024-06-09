@@ -4,7 +4,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Satendra, A Polyglot developer from <b>Bangalore, India</b>. I have 9+ years expireance and I have mostly worked on dotnet, python, C++, TS and AWS. 
+<p>Welcome to my page! </br> I'm Satendra, A Polyglot developer from <b>Bangalore, India</b>. I have 9+ years expireance and I have mostly worked on dotnet C#, Python, C++, TS and AWS. 
 
 #### :eyes: I design-develop-build-test-doc-package-deploy-monitor web,cli,library etc software applications
 
