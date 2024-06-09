@@ -1,7 +1,7 @@
 # :eyes: I design-develop-build-test-doc-package-deploy-monitor web,cli,library etc software applications
 ------------
 
-## <img src="icons/certificate.png" height="21"/>  Certification
+## <img src="icons/certificate.png" height="21"/>  Certifications
 ### [AWS Certified Solutions Architect – Professional](https://www.credly.com/badges/2bbcc05f-4045-4ee7-87d3-b8c06dfb26d8/public_url)
 ### [AWS Certified DevOps Engineer – Professional](https://www.credly.com/badges/ea4fb840-e0c6-43a9-9565-f80ee2eefe42/public_url)
 
