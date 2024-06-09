@@ -6,7 +6,7 @@
 
 <p>Welcome to my page! </br> I'm Satendra, A Polyglot developer from <b>Bangalore, India</b>. I have 9+ years expireance and I have mostly worked on dotnet C#, Python, C++, TS and AWS. 
 
-#### :eyes: I design-develop-build-test-doc-package-deploy-monitor web,cli,library etc software applications
+#### :eyes: I design-develop-build-test-doc-package-deploy-monitor web,cli,library etc software applications.
 
   
 ------------
