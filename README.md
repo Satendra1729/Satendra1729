@@ -80,8 +80,7 @@ pie title Relative Self Confidence
 |<span style="color:#007acc">TS</span>| Reactjs
 ||Grafan-loki-promtail
 
-## :crown: Skills 
-### :telescope: Way of Design and Development
+## :telescope: Way of Design and Development
 
 | Task                          | Description |
 |-------------------------------|-------------|
