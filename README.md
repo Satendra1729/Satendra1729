@@ -62,20 +62,20 @@ pie title Relative Self Confidence
 -->
 |Langugage           | Application Type  |
 |--------------------|-------------------|
-|<span style="color:#9b4993">C#</span> | REST API Development 
 |<span style="color:#9b4993">C#, </span> <span style="color:#00549D">C++, </span> <span style="color:#ffde57">py</span> | Command Line Tool development |
 |<span style="color:#9b4993">C#, </span> <span style="color:#00549D">C++, </span><span style="color:#ffde57">py</span> | Library development |
+|<span style="color:#9b4993">C#,</span><span style='color:#8040C9'>HCL, </span> <span style='color:#BE0000'>yml</span>| AWS IaaC CDK, Teraform, Cloudformation|
+|<span style="color:#72a824">Bash, </span></span><span style="color:#ffde57">py, </span> <span style='color:#BE0000'>yml</span>|CICD github workflow
 |<span style="color:#9b4993">C#,</span><span style="color:#ffde57">py</span> | Microservice development |
 |<span style="color:#9b4993">C#, </span><span style="color:#ffde57">py</span>| AWS Serverless App development |
-|<span style="color:#9b4993">C#</span> |Nuget packaging |
-|<span style="color:#ffde57">py</span> | PyPI packaging |
 |<span style="color:#9b4993">C#, </span><span style="color:#ffde57">py</span>| Docker packaging |
-|<span style="color:#72a824">Bash, </span><span style="color:#ffde57">py</span> | Automation scripting bash and python |
-|<span style="color:#ffde57">py</span> | Website Scraper Scripting |
 |<span style="color:#9b4993">C#, </span><span style="color:#ffde57">py</span> | Data pipeline development
 |<span style="color:#9b4993">C#, </span><span style="color:#ffde57">py</span>|Authentication and Access Managment implementation (LDAP) |
-|<span style='color:#8040C9'>HCL</span>| AWS IaaC Teraform, Cloudformation CDK |
-|<span style='color:#BE0000'>yml, </span><span style="color:#72a824">Bash</span>|CICD github workflow
+|<span style="color:#72a824">Bash, </span><span style="color:#ffde57">py</span> | Automation scripting bash and python |
+|<span style="color:#9b4993">C#</span> |Nuget packaging |
+|<span style="color:#9b4993">C#</span> | REST API Development 
+|<span style="color:#ffde57">py</span> | PyPI packaging |
+|<span style="color:#ffde57">py</span> | Website Scraper Scripting |
 |<span style='color:#ffde57'>py</span>|Private PKI |
 |<span style="color:#007acc">TS</span>| Reactjs
 ||Grafan-loki-promtail
