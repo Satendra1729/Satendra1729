@@ -72,8 +72,8 @@ pie title Relative Self Confidence
 |<span style="color:#9b4993">C#, </span><span style="color:#ffde57">py</span> | Data pipeline development
 |<span style="color:#9b4993">C#, </span><span style="color:#ffde57">py</span>|Authentication and Access Managment implementation (LDAP) |
 |<span style="color:#72a824">Bash, </span><span style="color:#ffde57">py</span> | Automation scripting bash and python |
-|<span style="color:#9b4993">C#</span> |Nuget packaging |
-|<span style="color:#9b4993">C#</span> | REST API Development 
+|<span style="color:#9b4993">C#</span> | Nuget packaging |
+|<span style="color:#9b4993">C#</span> | REST API Development with Swagger
 |<span style="color:#ffde57">py</span> | PyPI packaging |
 |<span style="color:#ffde57">py</span> | Website Scraper Scripting |
 |<span style='color:#ffde57'>py</span>|Private PKI |
