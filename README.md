@@ -17,7 +17,7 @@
 
 ## :space_invader: Services 
 
-
+<!--
 <style>
 .pie-mermaid {
     max-width:  30%;
@@ -59,7 +59,7 @@ pie title Relative Self Confidence
     "Bash": 10
 </div>
 </div>
-
+-->
 |Langugage           | Application Type  |
 |--------------------|-------------------|
 |<span style="color:#9b4993">C#</span> | REST API Development 
