@@ -82,23 +82,33 @@ pie title Relative Self Confidence
 
 ## :telescope: Way of Design and Development
 
-| Task                          | Description |
-|-------------------------------|-------------|
-| Phase1 | Proof of Concept |
-|  | Collecting requirements from stakeholders |
-| Phase2 | Identifying traits and interfaces |
-|  | Establishing rules for development |
-|  | Breaking down the project into modules |
-|  | Setting up boundaries for fitness functions |
-|  | Choosing dependency management tools |
-| Phase3 | Writing and developing code |
-|  | Defining logging strategies |
-|  | Implementing application analytics |
-|  | Setting up caching strategies |
-|  | Writing unit tests |
-|  | Performing quality scans |
-|  | Creating documentation |
-|  | Setting up CI/CD workflows |
-|  | Implementing monitoring solutions |
-|  | Planning for disaster recovery |
-| Phase4 | Hand Over
+The design and development process is structured into several phases to ensure a comprehensive and efficient workflow. Each phase focuses on specific tasks that contribute to the overall success of the project.
+
+### Phase 1: Conceptualization
+- **Proof of Concept**: Developing a prototype to validate the feasibility of the idea.
+- **Requirement Gathering**: Collecting detailed requirements from stakeholders to understand their needs and expectations.
+
+### Phase 2: Planning and Analysis
+- **Trait and Interface Identification**: Defining the key traits and interfaces required for the project.
+- **Development Governance Rules**: Establishing rules and guidelines to govern the development process.
+- **Module Breakdown**: Dividing the project into manageable modules for better organization and focus.
+- **Fitness Boundary Setup**: Setting up boundaries to ensure the project meets the desired fitness criteria.
+- **Dependency Management Selection**: Choosing the appropriate tools and strategies for managing dependencies.
+
+### Phase 3: Implementation
+- **Project Seeding**: Git Respository creation, porject skeleton and conventions
+- **Code Development**: Writing and developing the codebase according to the defined requirements and guidelines.
+- **Logging Strategy**: Implementing a logging strategy to track and monitor application behavior.
+- **Application Analytics**: Integrating analytics to gather insights on application usage and performance.
+- **Caching Strategy**: Setting up caching mechanisms to improve application performance.
+- **Unit Testing**: Writing unit tests to ensure the code functions as expected.
+- **Quality Scans**: Performing quality scans to identify and address potential issues.
+- **Documentation**: Creating comprehensive documentation to support the development and usage of the application.
+- **CI/CD Workflow Setup**: Setting up continuous integration and continuous deployment workflows to automate the build and deployment process.
+
+### Phase 4: Deployment and Maintenance
+- **Monitoring**: Implementing monitoring solutions to keep track of application performance and health.
+- **Disaster Recovery Planning**: Planning for disaster recovery to ensure business continuity in case of unexpected events.
+- **Hand Over**: Completing the project and handing over the deliverables to the stakeholders.
+
+Each phase is designed to build upon the previous one, ensuring a smooth and efficient development process from start to finish.
