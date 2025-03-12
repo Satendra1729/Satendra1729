@@ -101,4 +101,4 @@ pie title Relative Self Confidence
 |  | Setting up CI/CD workflows |
 |  | Implementing monitoring solutions |
 |  | Planning for disaster recovery |
-| Phase4 | Hand Over and move on
+| Phase4 | Hand Over
